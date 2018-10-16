@@ -17,7 +17,11 @@ fun main(args: Array<String>){
     ob2.numbers = 200
     ob2.counter()
 
+    // without STRING INTERPOLATION
+    println("This is from main : " + ob2.numbers)
 
+    // with STRING INTERPOLATION
+    println("This is from main-INTERPOLATED : ${ob2.numbers}")
 }
 
 class classX{
