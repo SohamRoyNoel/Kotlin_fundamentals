@@ -11,6 +11,13 @@ fun main(args: Array<String>){
     var ob1 = classXII()
     ob1.number = 150
     ob1.entry(ob1.number)
+
+    // calling classXIII
+    var ob2 = classXIII()
+    ob2.numbers = 200
+    ob2.counter()
+
+
 }
 
 class classX{
@@ -30,5 +37,13 @@ class classXII{
     fun entry(number:Int){
         var x = number * 5
         println("the number is : " + x)
+    }
+}
+
+// dong the same as classXII
+class classXIII{
+    var numbers:Int = 0
+    fun counter(){
+        println("Number is : " + numbers * 50);
     }
 }
