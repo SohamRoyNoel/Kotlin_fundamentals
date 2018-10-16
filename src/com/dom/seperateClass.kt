@@ -6,3 +6,10 @@ class seperateClass{
         println("Seperater name : ${sepname}")
     }
 }
+
+// CONSTRUCTOR in KOTLIN
+class constClassic(var constExample:String){
+    fun dispConst(){
+        println("Value from Constructor is : ${constExample}")
+    }
+}
