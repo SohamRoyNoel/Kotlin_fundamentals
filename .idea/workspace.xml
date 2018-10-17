@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5aaec0e9-e7af-4d0f-b07c-9f2786a457d1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_1/META-INF/Kotlin_1.kotlin_module" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,26 +30,30 @@
         <counts>
           <entry key="class" value="1" />
           <entry key="gitignore" value="1" />
-          <entry key="kt" value="13" />
+          <entry key="java" value="1" />
+          <entry key="kt" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="Kotlin" value="13" />
+          <entry key="JAVA" value="1" />
+          <entry key="Kotlin" value="15" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="13" />
-          <entry key="kt" value="3324" />
+          <entry key="java" value="227" />
+          <entry key="kt" value="3606" />
           <entry key="kts" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Kotlin" value="3328" />
+          <entry key="JAVA" value="227" />
+          <entry key="Kotlin" value="3610" />
           <entry key="PLAIN_TEXT" value="13" />
         </counts>
       </usages-collector>
@@ -59,10 +63,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/functionAsExpression.kt">
+        <entry file="file://$PROJECT_DIR$/src/interoperability_JAVA.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+            <state>
+              <caret column="58" selection-start-column="58" selection-end-column="58" />
+              <folding>
+                <element signature="e#253#254#0" expanded="true" />
+                <element signature="e#279#280#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/interoperability_KOTLIN.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="93" selection-start-column="93" selection-end-column="93" />
             </state>
           </provider>
         </entry>
@@ -72,6 +89,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -95,12 +113,14 @@
         <option value="$PROJECT_DIR$/src/do_while.kt" />
         <option value="$PROJECT_DIR$/src/break_Cont_Ret.kt" />
         <option value="$PROJECT_DIR$/src/functionAsExpression.kt" />
+        <option value="$PROJECT_DIR$/src/interoperability_KOTLIN.kt" />
+        <option value="$PROJECT_DIR$/src/interoperability_JAVA.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-88" />
-    <option name="y" value="256" />
+    <option name="x" value="-4" />
+    <option name="y" value="35" />
     <option name="width" value="1346" />
     <option name="height" value="728" />
   </component>
@@ -133,7 +153,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539808376162" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539810695322" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
@@ -148,7 +168,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.FunctionAsExpressionKt">
+  <component name="RunManager" selected="Application.interoperability_JAVA">
+    <configuration name="interoperability_JAVA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interoperability_JAVA" />
+      <module name="Kotlin_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Break_Cont_RetKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin_1" />
       <option name="VM_PARAMETERS" />
@@ -175,19 +202,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForloopKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlin_1" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ForloopKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="FunctionAsExpressionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin_1" />
       <option name="VM_PARAMETERS" />
@@ -201,33 +215,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileLoopKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Interoperability_KOTLINKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin_1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="WhileLoopKt" />
+      <option name="MAIN_CLASS_NAME" value="Interoperability_KOTLINKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.WhileLoopKt" />
-      <item itemvalue="Kotlin.ForloopKt" />
       <item itemvalue="Kotlin.Do_whileKt" />
       <item itemvalue="Kotlin.Break_Cont_RetKt" />
       <item itemvalue="Kotlin.FunctionAsExpressionKt" />
+      <item itemvalue="Application.interoperability_JAVA" />
+      <item itemvalue="Kotlin.Interoperability_KOTLINKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.interoperability_JAVA" />
+        <item itemvalue="Kotlin.Interoperability_KOTLINKt" />
         <item itemvalue="Kotlin.FunctionAsExpressionKt" />
         <item itemvalue="Kotlin.Break_Cont_RetKt" />
         <item itemvalue="Kotlin.Do_whileKt" />
-        <item itemvalue="Kotlin.ForloopKt" />
-        <item itemvalue="Kotlin.WhileLoopKt" />
       </list>
     </recent_temporary>
   </component>
@@ -374,6 +388,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interoperability_JAVA.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interoperability_KOTLIN.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="93" selection-start-column="93" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interoperability_JAVA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="58" selection-start-column="58" selection-end-column="58" />
+          <folding>
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
