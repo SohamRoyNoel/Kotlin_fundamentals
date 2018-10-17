@@ -20,4 +20,7 @@
      val mystr = "this is kotlin line"
      // mystr = "100" // its an error a val is immutable
      println(mystr)
+
+      //Length of STRING
+     println("Length : ${myString.length}") //11
  }
