@@ -15,17 +15,17 @@
     <session id="-1192320926">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="3" />
-          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.17" value="2" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.21" value="2" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.45" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -33,14 +33,14 @@
           <entry key="class" value="1" />
           <entry key="gitignore" value="1" />
           <entry key="java" value="3" />
-          <entry key="kt" value="28" />
+          <entry key="kt" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="JAVA" value="3" />
-          <entry key="Kotlin" value="28" />
+          <entry key="Kotlin" value="30" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -48,14 +48,14 @@
         <counts>
           <entry key="gitignore" value="13" />
           <entry key="java" value="396" />
-          <entry key="kt" value="6145" />
+          <entry key="kt" value="6691" />
           <entry key="kts" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="396" />
-          <entry key="Kotlin" value="6149" />
+          <entry key="Kotlin" value="6695" />
           <entry key="PLAIN_TEXT" value="13" />
         </counts>
       </usages-collector>
@@ -65,10 +65,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ClassDefinition_Init_Primary_CONSTRUCTOR.kt">
+        <entry file="file://$PROJECT_DIR$/src/ClassDefinition_Secondary_CONSTRUCTOR.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+            <state relative-caret-position="136">
+              <caret line="8" column="78" lean-forward="true" selection-start-line="8" selection-start-column="78" selection-end-line="8" selection-end-column="78" />
             </state>
           </provider>
         </entry>
@@ -113,6 +113,7 @@
         <option value="$PROJECT_DIR$/src/InfixFunction.kt" />
         <option value="$PROJECT_DIR$/src/TailRecFunction.kt" />
         <option value="$PROJECT_DIR$/src/ClassDefinition_Init_Primary_CONSTRUCTOR.kt" />
+        <option value="$PROJECT_DIR$/src/ClassDefinition_Secondary_CONSTRUCTOR.kt" />
       </list>
     </option>
   </component>
@@ -151,7 +152,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539877788008" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539881325279" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
@@ -166,7 +167,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.ClassDefinition_Init_Primary_CONSTRUCTORKt">
+  <component name="RunManager" selected="Kotlin.ClassDefinition_Secondary_CONSTRUCTORKt">
     <configuration name="ClassDefinition_Init_Primary_CONSTRUCTORKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin_1" />
       <option name="VM_PARAMETERS" />
@@ -180,6 +181,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ClassDefinition_Secondary_CONSTRUCTORKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin_1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ClassDefinition_Secondary_CONSTRUCTORKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExtentionFunction1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin_1" />
       <option name="VM_PARAMETERS" />
@@ -188,19 +202,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="ExtentionFunction1Kt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExtentionFunctionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlin_1" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ExtentionFunctionKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -233,19 +234,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.ExtentionFunctionKt" />
       <item itemvalue="Kotlin.ExtentionFunction1Kt" />
       <item itemvalue="Kotlin.InfixFunctionKt" />
       <item itemvalue="Kotlin.TailRecFunctionKt" />
       <item itemvalue="Kotlin.ClassDefinition_Init_Primary_CONSTRUCTORKt" />
+      <item itemvalue="Kotlin.ClassDefinition_Secondary_CONSTRUCTORKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ClassDefinition_Secondary_CONSTRUCTORKt" />
         <item itemvalue="Kotlin.ClassDefinition_Init_Primary_CONSTRUCTORKt" />
         <item itemvalue="Kotlin.TailRecFunctionKt" />
         <item itemvalue="Kotlin.InfixFunctionKt" />
         <item itemvalue="Kotlin.ExtentionFunction1Kt" />
-        <item itemvalue="Kotlin.ExtentionFunctionKt" />
       </list>
     </recent_temporary>
   </component>
@@ -266,7 +267,7 @@
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17927383" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -275,12 +276,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.2565284" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" weight="0.2565284" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39938557" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49924356" weight="0.32872504" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49924356" weight="0.21966206" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5015129" side_tool="true" weight="0.21812595" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32872504" />
@@ -468,8 +469,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ClassDefinition_Init_Primary_CONSTRUCTOR.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        <state relative-caret-position="374">
+          <caret line="22" column="39" lean-forward="true" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClassDefinition_Secondary_CONSTRUCTOR.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="78" lean-forward="true" selection-start-line="8" selection-start-column="78" selection-end-line="8" selection-end-column="78" />
         </state>
       </provider>
     </entry>
