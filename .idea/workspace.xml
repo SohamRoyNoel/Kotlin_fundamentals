@@ -33,14 +33,14 @@
           <entry key="class" value="1" />
           <entry key="gitignore" value="1" />
           <entry key="java" value="3" />
-          <entry key="kt" value="27" />
+          <entry key="kt" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="JAVA" value="3" />
-          <entry key="Kotlin" value="27" />
+          <entry key="Kotlin" value="28" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -48,14 +48,14 @@
         <counts>
           <entry key="gitignore" value="13" />
           <entry key="java" value="396" />
-          <entry key="kt" value="5520" />
+          <entry key="kt" value="6145" />
           <entry key="kts" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="396" />
-          <entry key="Kotlin" value="5524" />
+          <entry key="Kotlin" value="6149" />
           <entry key="PLAIN_TEXT" value="13" />
         </counts>
       </usages-collector>
@@ -65,10 +65,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/TailRecFunction.kt">
+        <entry file="file://$PROJECT_DIR$/src/ClassDefinition_Init_Primary_CONSTRUCTOR.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+            <state relative-caret-position="85">
+              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -112,6 +112,7 @@
         <option value="$PROJECT_DIR$/src/ExtentionFunction1.kt" />
         <option value="$PROJECT_DIR$/src/InfixFunction.kt" />
         <option value="$PROJECT_DIR$/src/TailRecFunction.kt" />
+        <option value="$PROJECT_DIR$/src/ClassDefinition_Init_Primary_CONSTRUCTOR.kt" />
       </list>
     </option>
   </component>
@@ -150,7 +151,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539875834664" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539877788008" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
@@ -165,7 +166,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.TailRecFunctionKt">
+  <component name="RunManager" selected="Kotlin.ClassDefinition_Init_Primary_CONSTRUCTORKt">
+    <configuration name="ClassDefinition_Init_Primary_CONSTRUCTORKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin_1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ClassDefinition_Init_Primary_CONSTRUCTORKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExtentionFunction1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin_1" />
       <option name="VM_PARAMETERS" />
@@ -205,19 +219,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Named_parameterKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlin_1" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Named_parameterKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TailRecFunctionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin_1" />
       <option name="VM_PARAMETERS" />
@@ -232,19 +233,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.Named_parameterKt" />
       <item itemvalue="Kotlin.ExtentionFunctionKt" />
       <item itemvalue="Kotlin.ExtentionFunction1Kt" />
       <item itemvalue="Kotlin.InfixFunctionKt" />
       <item itemvalue="Kotlin.TailRecFunctionKt" />
+      <item itemvalue="Kotlin.ClassDefinition_Init_Primary_CONSTRUCTORKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ClassDefinition_Init_Primary_CONSTRUCTORKt" />
         <item itemvalue="Kotlin.TailRecFunctionKt" />
         <item itemvalue="Kotlin.InfixFunctionKt" />
         <item itemvalue="Kotlin.ExtentionFunction1Kt" />
         <item itemvalue="Kotlin.ExtentionFunctionKt" />
-        <item itemvalue="Kotlin.Named_parameterKt" />
       </list>
     </recent_temporary>
   </component>
@@ -460,8 +461,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TailRecFunction.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+        <state relative-caret-position="357">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClassDefinition_Init_Primary_CONSTRUCTOR.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
         </state>
       </provider>
     </entry>
