@@ -5,6 +5,10 @@ fun main(Args: Array<String>){
 
     var ob123 =  Students123("JP");
     println("Name : ${ob123.__name}") // Name : JP
+
+    // Default
+    val ob1234 = Students1234();
+    println("From Default Const: ${ob1234.name}")
 }
 
 // Name can't be accessed from other method; BCZ its acting like a PARAMETER only
@@ -38,4 +42,9 @@ class Students123(name: String){
         this.__name = name
         println("MY name iss : ${name}")
     }
+}
+
+// Default Constructor
+class Students1234(var name:String = "Jack"){
+
 }
