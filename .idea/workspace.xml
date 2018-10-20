@@ -34,14 +34,14 @@
           <entry key="class" value="1" />
           <entry key="gitignore" value="1" />
           <entry key="java" value="3" />
-          <entry key="kt" value="44" />
+          <entry key="kt" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="JAVA" value="3" />
-          <entry key="Kotlin" value="44" />
+          <entry key="Kotlin" value="46" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -49,14 +49,14 @@
         <counts>
           <entry key="gitignore" value="13" />
           <entry key="java" value="396" />
-          <entry key="kt" value="11183" />
+          <entry key="kt" value="11794" />
           <entry key="kts" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="396" />
-          <entry key="Kotlin" value="11187" />
+          <entry key="Kotlin" value="11798" />
           <entry key="PLAIN_TEXT" value="13" />
         </counts>
       </usages-collector>
@@ -66,10 +66,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/interface.kt">
+        <entry file="file://$PROJECT_DIR$/src/DataClass_ANY.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="71" column="37" lean-forward="true" selection-start-line="71" selection-start-column="37" selection-end-line="71" selection-end-column="37" />
+            <state relative-caret-position="63">
+              <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -123,6 +123,7 @@
         <option value="$PROJECT_DIR$/src/accessModifier1.kt" />
         <option value="$PROJECT_DIR$/src/AbstractClass.kt" />
         <option value="$PROJECT_DIR$/src/interface.kt" />
+        <option value="$PROJECT_DIR$/src/DataClass_ANY.kt" />
       </list>
     </option>
   </component>
@@ -161,7 +162,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540070648643" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540073077363" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
@@ -176,7 +177,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.InterfaceKt">
+  <component name="RunManager" selected="Kotlin.DataClass_ANYKt">
     <configuration name="ClassDefinition_Init_Primary_CONSTRUCTORKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin_1" />
       <option name="VM_PARAMETERS" />
@@ -190,14 +191,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Inheritance_OverRidingKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="DataClass_ANYKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin_1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Inheritance_OverRidingKt" />
+      <option name="MAIN_CLASS_NAME" value="DataClass_ANYKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -244,18 +245,18 @@
     </configuration>
     <list>
       <item itemvalue="Kotlin.ClassDefinition_Init_Primary_CONSTRUCTORKt" />
-      <item itemvalue="Kotlin.Inheritance_OverRidingKt" />
       <item itemvalue="Kotlin.Inheritance_Primary_Secondary_ConstructorsKt" />
       <item itemvalue="Kotlin.Inheritance_Secondary_ConstructorsKt" />
       <item itemvalue="Kotlin.InterfaceKt" />
+      <item itemvalue="Kotlin.DataClass_ANYKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.DataClass_ANYKt" />
         <item itemvalue="Kotlin.InterfaceKt" />
         <item itemvalue="Kotlin.Inheritance_Secondary_ConstructorsKt" />
         <item itemvalue="Kotlin.Inheritance_Primary_Secondary_ConstructorsKt" />
         <item itemvalue="Kotlin.ClassDefinition_Init_Primary_CONSTRUCTORKt" />
-        <item itemvalue="Kotlin.Inheritance_OverRidingKt" />
       </list>
     </recent_temporary>
   </component>
@@ -285,7 +286,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.2565284" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.1766513" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39938557" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -357,13 +358,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ControlStatement.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -544,8 +538,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/interface.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
+        <state relative-caret-position="396">
           <caret line="71" column="37" lean-forward="true" selection-start-line="71" selection-start-column="37" selection-end-line="71" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ControlStatement.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataClass_ANY.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
         </state>
       </provider>
     </entry>
