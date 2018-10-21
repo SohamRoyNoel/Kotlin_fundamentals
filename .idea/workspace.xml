@@ -35,14 +35,14 @@
           <entry key="class" value="1" />
           <entry key="gitignore" value="1" />
           <entry key="java" value="4" />
-          <entry key="kt" value="56" />
+          <entry key="kt" value="57" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="JAVA" value="4" />
-          <entry key="Kotlin" value="56" />
+          <entry key="Kotlin" value="57" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -50,14 +50,14 @@
         <counts>
           <entry key="gitignore" value="13" />
           <entry key="java" value="488" />
-          <entry key="kt" value="14927" />
+          <entry key="kt" value="15121" />
           <entry key="kts" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="488" />
-          <entry key="Kotlin" value="14931" />
+          <entry key="Kotlin" value="15125" />
           <entry key="PLAIN_TEXT" value="13" />
         </counts>
       </usages-collector>
@@ -67,28 +67,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lambda/lambda.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lambda/lambda1.kt">
+        <entry file="file://$PROJECT_DIR$/src/com/lambda/lambda_CLOSURES.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/lambda/lambda_CLOSURES.kt">
+        <entry file="file://$PROJECT_DIR$/src/com/lambda/lambda_IT.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
+            <state relative-caret-position="136">
+              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -151,6 +142,7 @@
         <option value="$PROJECT_DIR$/src/com/lambda/lambda.kt" />
         <option value="$PROJECT_DIR$/src/com/lambda/lambda1.kt" />
         <option value="$PROJECT_DIR$/src/com/lambda/lambda_CLOSURES.kt" />
+        <option value="$PROJECT_DIR$/src/com/lambda/lambda_IT.kt" />
       </list>
     </option>
   </component>
@@ -202,7 +194,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540156104121" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540157698709" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -222,7 +214,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.com.lambda.Lambda_CLOSURESKt">
+  <component name="RunManager" selected="Kotlin.com.lambda.Lambda_ITKt">
     <configuration name="Singleton_from_kotlin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Singleton_from_kotlin" />
       <module name="Kotlin_1" />
@@ -238,19 +230,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="Interface_1Kt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Singleton_to_JAVAKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlin_1" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Singleton_to_JAVAKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -295,20 +274,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.lambda.Lambda_ITKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin_1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.lambda.Lambda_ITKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Kotlin.Singleton_to_JAVAKt" />
       <item itemvalue="Application.Singleton_from_kotlin" />
       <item itemvalue="Kotlin.com.lambda.LambdaKt" />
       <item itemvalue="Kotlin.com.lambda.Lambda1Kt" />
       <item itemvalue="Kotlin.com.lambda.Lambda_CLOSURESKt" />
+      <item itemvalue="Kotlin.com.lambda.Lambda_ITKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.com.lambda.Lambda_ITKt" />
         <item itemvalue="Kotlin.com.lambda.Lambda_CLOSURESKt" />
         <item itemvalue="Kotlin.com.lambda.Lambda1Kt" />
         <item itemvalue="Kotlin.com.lambda.LambdaKt" />
         <item itemvalue="Kotlin.com.lambda.Interface_1Kt" />
-        <item itemvalue="Application.Singleton_from_kotlin" />
       </list>
     </recent_temporary>
   </component>
@@ -343,7 +335,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49924356" weight="0.3625192" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49924356" weight="0.3614304" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5015129" side_tool="true" weight="0.21812595" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32872504" />
@@ -654,8 +646,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/lambda/lambda_CLOSURES.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lambda/lambda_IT.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>
