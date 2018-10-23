@@ -3,7 +3,7 @@ package collection
 
 fun main(args: Array<String>){
 
-    // listOf makes a list IMMUTABLE : listOf, mapOf, setOf
+    // listOf makes a list MUTABLE
     var myList = listOf<String>("Tom", "Dick", "Harry")
 
     for (e in myList){

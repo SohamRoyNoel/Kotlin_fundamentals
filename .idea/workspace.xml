@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5aaec0e9-e7af-4d0f-b07c-9f2786a457d1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5aaec0e9-e7af-4d0f-b07c-9f2786a457d1" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,14 +34,14 @@
           <entry key="class" value="1" />
           <entry key="gitignore" value="1" />
           <entry key="java" value="4" />
-          <entry key="kt" value="61" />
+          <entry key="kt" value="62" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="JAVA" value="4" />
-          <entry key="Kotlin" value="61" />
+          <entry key="Kotlin" value="62" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -51,14 +49,14 @@
         <counts>
           <entry key="gitignore" value="13" />
           <entry key="java" value="488" />
-          <entry key="kt" value="15919" />
+          <entry key="kt" value="15945" />
           <entry key="kts" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="488" />
-          <entry key="Kotlin" value="15923" />
+          <entry key="Kotlin" value="15949" />
           <entry key="PLAIN_TEXT" value="13" />
         </counts>
       </usages-collector>
@@ -76,11 +74,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/collection/ArrayList.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            <state relative-caret-position="211">
+              <caret line="27" column="38" lean-forward="true" selection-end-line="35" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/collection/ArrayList_Mutable.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -147,6 +154,7 @@
         <option value="$PROJECT_DIR$/src/com/lambda/lambda_with_apply.kt" />
         <option value="$PROJECT_DIR$/src/collection/Array.kt" />
         <option value="$PROJECT_DIR$/src/collection/ArrayList.kt" />
+        <option value="$PROJECT_DIR$/src/collection/ArrayList_Mutable.kt" />
       </list>
     </option>
   </component>
@@ -191,7 +199,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540321822874" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540322259984" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -309,7 +317,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1456" height="916" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20487106" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -325,7 +332,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49924356" visible="true" weight="0.3614304" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49924356" weight="0.3614304" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5015129" side_tool="true" weight="0.21812595" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32872504" />
@@ -664,8 +671,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/collection/ArrayList.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        <state relative-caret-position="211">
+          <caret line="27" column="38" lean-forward="true" selection-end-line="35" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collection/ArrayList_Mutable.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
         </state>
       </provider>
     </entry>
