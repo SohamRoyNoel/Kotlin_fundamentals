@@ -3,8 +3,8 @@ package collection
 
 fun main(args: Array<String>){
 
-    // listOf makes a list MUTABLE
-    var myList = listOf<String>("Tom", "Dick", "Harry")
+    // listOf makes a list MUTABLE : ArrayList, arrayListOf, mutableListOf
+    var myList = mutableListOf<String>("Tom", "Dick", "Marry")
 
     for (e in myList){
         print("${e} ")
@@ -28,9 +28,33 @@ fun main(args: Array<String>){
         print("${myList.get(index)} ")
     }
     /*
-            Tom Dick Harry
-            Tom Dick Harry
+            Tom Dick Marry
+            Tom Dick Marry
             0 1 2
-            Tom Dick Harry
+            Tom Dick Marry
     */
+
+    // Add element on the go
+    println()
+
+    myList.add("Juliet")
+    for (e in myList){
+        print("${e} ")
+    }
+
+    // REMOVE element on the go
+    println()
+
+    myList.remove("Tom")
+    for (e in myList){
+        print("${e} ")
+    }
+
+    // REMOVE ALL element on the go
+    println()
+
+
+    for (e in myList){
+        print("${e} ")
+    }
 }

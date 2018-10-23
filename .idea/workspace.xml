@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5aaec0e9-e7af-4d0f-b07c-9f2786a457d1" name="Default Changelist" comment="" />
+    <list default="true" id="5aaec0e9-e7af-4d0f-b07c-9f2786a457d1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_1/META-INF/Kotlin_1.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_1/META-INF/Kotlin_1.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/ArrayList_Mutable.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/ArrayList_Mutable.kt" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,10 +17,10 @@
     <session id="-1192320926">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="20" />
+          <entry key="project.closed" value="21" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.15" value="3" />
           <entry key="project.open.time.16" value="8" />
           <entry key="project.open.time.17" value="2" />
           <entry key="project.open.time.19" value="1" />
@@ -26,7 +30,7 @@
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.45" value="1" />
-          <entry key="project.opened" value="22" />
+          <entry key="project.opened" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -49,14 +53,14 @@
         <counts>
           <entry key="gitignore" value="13" />
           <entry key="java" value="488" />
-          <entry key="kt" value="15945" />
+          <entry key="kt" value="16121" />
           <entry key="kts" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="488" />
-          <entry key="Kotlin" value="15949" />
+          <entry key="Kotlin" value="16125" />
           <entry key="PLAIN_TEXT" value="13" />
         </counts>
       </usages-collector>
@@ -69,7 +73,7 @@
         <entry file="file://$PROJECT_DIR$/src/collection/Array.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -77,8 +81,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/collection/ArrayList.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="27" column="38" lean-forward="true" selection-end-line="35" selection-end-column="1" />
+            <state relative-caret-position="238">
+              <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -86,8 +90,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/collection/ArrayList_Mutable.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+            <state relative-caret-position="173">
+              <caret line="32" column="17" lean-forward="true" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -172,7 +176,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -196,10 +199,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540322259984" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540323020335" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -219,7 +223,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.collection.ArrayListKt">
+  <component name="RunManager" selected="Kotlin.collection.ArrayList_MutableKt">
     <configuration name="collection.ArrayKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin_1" />
       <option name="VM_PARAMETERS" />
@@ -246,14 +250,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.lambda.Lambda_CLOSURESKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="collection.ArrayList_MutableKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin_1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.lambda.Lambda_CLOSURESKt" />
+      <option name="MAIN_CLASS_NAME" value="collection.ArrayList_MutableKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -286,19 +290,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.com.lambda.Lambda_CLOSURESKt" />
       <item itemvalue="Kotlin.com.lambda.Lambda_ITKt" />
       <item itemvalue="Kotlin.com.lambda.Lambda_with_applyKt" />
       <item itemvalue="Kotlin.collection.ArrayKt" />
       <item itemvalue="Kotlin.collection.ArrayListKt" />
+      <item itemvalue="Kotlin.collection.ArrayList_MutableKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.collection.ArrayList_MutableKt" />
         <item itemvalue="Kotlin.collection.ArrayListKt" />
         <item itemvalue="Kotlin.collection.ArrayKt" />
         <item itemvalue="Kotlin.com.lambda.Lambda_with_applyKt" />
         <item itemvalue="Kotlin.com.lambda.Lambda_ITKt" />
-        <item itemvalue="Kotlin.com.lambda.Lambda_CLOSURESKt" />
       </list>
     </recent_temporary>
   </component>
@@ -317,8 +321,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1456" height="916" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20487106" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20773639" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -327,7 +332,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" weight="0.41251597" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" weight="0.15453385" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39938557" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -665,21 +670,21 @@
     <entry file="file://$PROJECT_DIR$/src/collection/Array.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/collection/ArrayList.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="27" column="38" lean-forward="true" selection-end-line="35" selection-end-column="1" />
+        <state relative-caret-position="238">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/collection/ArrayList_Mutable.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        <state relative-caret-position="173">
+          <caret line="32" column="17" lean-forward="true" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
         </state>
       </provider>
     </entry>
