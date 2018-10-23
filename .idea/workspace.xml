@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5aaec0e9-e7af-4d0f-b07c-9f2786a457d1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5aaec0e9-e7af-4d0f-b07c-9f2786a457d1" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,14 +34,14 @@
           <entry key="class" value="1" />
           <entry key="gitignore" value="1" />
           <entry key="java" value="4" />
-          <entry key="kt" value="64" />
+          <entry key="kt" value="65" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="JAVA" value="4" />
-          <entry key="Kotlin" value="64" />
+          <entry key="Kotlin" value="65" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -51,14 +49,14 @@
         <counts>
           <entry key="gitignore" value="13" />
           <entry key="java" value="488" />
-          <entry key="kt" value="16557" />
+          <entry key="kt" value="16944" />
           <entry key="kts" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="488" />
-          <entry key="Kotlin" value="16561" />
+          <entry key="Kotlin" value="16948" />
           <entry key="PLAIN_TEXT" value="13" />
         </counts>
       </usages-collector>
@@ -68,10 +66,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/collection/Map.kt">
+        <entry file="file://$PROJECT_DIR$/src/collection/Set.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="17" column="6" lean-forward="true" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+            <state relative-caret-position="510">
+              <caret line="30" column="20" lean-forward="true" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -140,6 +138,7 @@
         <option value="$PROJECT_DIR$/src/collection/ArrayList.kt" />
         <option value="$PROJECT_DIR$/src/collection/ArrayList_Mutable.kt" />
         <option value="$PROJECT_DIR$/src/collection/Map.kt" />
+        <option value="$PROJECT_DIR$/src/collection/Set.kt" />
       </list>
     </option>
   </component>
@@ -184,7 +183,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540326677835" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540328199520" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -204,7 +203,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.collection.MapKt">
+  <component name="RunManager" selected="Kotlin.collection.SetKt">
     <configuration name="collection.ArrayKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin_1" />
       <option name="VM_PARAMETERS" />
@@ -257,33 +256,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.lambda.Lambda_with_applyKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="collection.SetKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin_1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.lambda.Lambda_with_applyKt" />
+      <option name="MAIN_CLASS_NAME" value="collection.SetKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.com.lambda.Lambda_with_applyKt" />
       <item itemvalue="Kotlin.collection.ArrayKt" />
       <item itemvalue="Kotlin.collection.ArrayListKt" />
       <item itemvalue="Kotlin.collection.ArrayList_MutableKt" />
       <item itemvalue="Kotlin.collection.MapKt" />
+      <item itemvalue="Kotlin.collection.SetKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.collection.SetKt" />
         <item itemvalue="Kotlin.collection.MapKt" />
         <item itemvalue="Kotlin.collection.ArrayList_MutableKt" />
         <item itemvalue="Kotlin.collection.ArrayListKt" />
         <item itemvalue="Kotlin.collection.ArrayKt" />
-        <item itemvalue="Kotlin.com.lambda.Lambda_with_applyKt" />
       </list>
     </recent_temporary>
   </component>
@@ -313,7 +312,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.17391305" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.24808185" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39938557" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -671,8 +670,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/collection/Map.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="17" column="6" lean-forward="true" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collection/Set.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="20" lean-forward="true" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
         </state>
       </provider>
     </entry>
