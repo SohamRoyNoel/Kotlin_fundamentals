@@ -50,7 +50,7 @@ fun main(args: Array<String>){
     // Test 1
     val name = personH.asSequence().filter { it.name.startsWith("D") }.map { it.name }.toList()
     for (p in name){
-        print("$p ")
+        print("$p ") // Dishani Dish
     }
 
     println()
@@ -58,13 +58,14 @@ fun main(args: Array<String>){
     // Test 2
     val names = personH.asSequence().filter { it.age > 16 }.map { it.name.startsWith("D") }.toList()
     for (p in names){
-        print("$p ")
+        print("$p ") // true true
     }
 
+    println()
     // Test 3
     val names1 = personH.asSequence().filter { it.name.startsWith("D") }.map { it.age > 16 }.toList()
     for (p in names1){
-        print("$p ")
+        print("$p ") true true
     }
 }
 
