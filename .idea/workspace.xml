@@ -36,14 +36,14 @@
           <entry key="class" value="1" />
           <entry key="gitignore" value="1" />
           <entry key="java" value="4" />
-          <entry key="kt" value="68" />
+          <entry key="kt" value="69" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="JAVA" value="4" />
-          <entry key="Kotlin" value="68" />
+          <entry key="Kotlin" value="69" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -51,14 +51,14 @@
         <counts>
           <entry key="gitignore" value="13" />
           <entry key="java" value="488" />
-          <entry key="kt" value="18518" />
+          <entry key="kt" value="18671" />
           <entry key="kts" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="488" />
-          <entry key="Kotlin" value="18522" />
+          <entry key="Kotlin" value="18675" />
           <entry key="PLAIN_TEXT" value="13" />
         </counts>
       </usages-collector>
@@ -67,11 +67,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/others/nullSafe.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="43" column="36" lean-forward="true" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
+            <state relative-caret-position="221">
+              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/others/lateInit_keyword.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -92,7 +101,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/function.kt" />
         <option value="$PROJECT_DIR$/src/com/dom/seperateClass.kt" />
         <option value="$PROJECT_DIR$/src/sepetatedFun.kt" />
         <option value="$PROJECT_DIR$/src/loops.kt" />
@@ -143,6 +151,7 @@
         <option value="$PROJECT_DIR$/src/collection/Filter_Map.kt" />
         <option value="$PROJECT_DIR$/src/collection/predicates.kt" />
         <option value="$PROJECT_DIR$/src/others/nullSafe.kt" />
+        <option value="$PROJECT_DIR$/src/others/lateInit_keyword.kt" />
       </list>
     </option>
   </component>
@@ -192,6 +201,12 @@
               <item name="Kotlin_1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Kotlin_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kotlin_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="others" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -201,7 +216,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540397396723" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540399533169" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
   <component name="RecentsManager">
@@ -221,7 +236,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.others.NullSafeKt">
+  <component name="RunManager" selected="Kotlin.others.LateInit_keywordKt">
     <configuration name="collection.Filter_MapKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin_1" />
       <option name="VM_PARAMETERS" />
@@ -230,19 +245,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="collection.Filter_MapKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="collection.MapKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlin_1" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="collection.MapKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -274,6 +276,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="others.LateInit_keywordKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin_1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="others.LateInit_keywordKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="others.NullSafeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin_1" />
       <option name="VM_PARAMETERS" />
@@ -288,19 +303,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.collection.MapKt" />
       <item itemvalue="Kotlin.collection.SetKt" />
       <item itemvalue="Kotlin.collection.Filter_MapKt" />
       <item itemvalue="Kotlin.collection.PredicatesKt" />
       <item itemvalue="Kotlin.others.NullSafeKt" />
+      <item itemvalue="Kotlin.others.LateInit_keywordKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.others.LateInit_keywordKt" />
         <item itemvalue="Kotlin.others.NullSafeKt" />
         <item itemvalue="Kotlin.collection.PredicatesKt" />
         <item itemvalue="Kotlin.collection.Filter_MapKt" />
         <item itemvalue="Kotlin.collection.SetKt" />
-        <item itemvalue="Kotlin.collection.MapKt" />
       </list>
     </recent_temporary>
   </component>
@@ -321,7 +336,7 @@
     <frame x="1358" y="-8" width="1456" height="916" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21346705" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21346705" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -330,7 +345,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.24808185" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" weight="0.3849105" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39938557" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -353,13 +368,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/dom/seperateClass.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="59" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sepetatedFun.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -702,8 +710,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/others/nullSafe.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="43" column="36" lean-forward="true" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
+        <state relative-caret-position="221">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/others/lateInit_keyword.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
         </state>
       </provider>
     </entry>
