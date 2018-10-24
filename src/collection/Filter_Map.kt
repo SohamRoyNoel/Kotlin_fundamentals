@@ -65,7 +65,7 @@ fun main(args: Array<String>){
     // Test 3
     val names1 = personH.asSequence().filter { it.name.startsWith("D") }.map { it.age > 16 }.toList()
     for (p in names1){
-        print("$p ") true true
+        print("$p ") // true true
     }
 }
 
