@@ -68,4 +68,5 @@ fun main(args: Array<String>){
     }
 }
 
+// you dont need to put a body {} if there is no body of the class :: only use the constructor
 class Person(var age:Int, var  name: String)
